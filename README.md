@@ -71,10 +71,10 @@ I build out a content based recommendation system using the NLP skills.  And the
 
      3. The web page will show as follows:
        - Input Window：
- ![GUI1](https://github.com/bin-wang-sh/Recommendation_with_IBM_Webapp/blob/master/IBM_1.jpg 'Input window')
+ ![GUI1](https://github.com/WalaaAlaqeel/Recommendation_with_IBM_Webapp/blob/master/IBM_1.jpg 'Input window')
 
        - Result Window：
-![GUI2](https://github.com/bin-wang-sh/Recommendation_with_IBM_Webapp/blob/master/IBM_2.jpg 'Result window')
+![GUI2](https://github.com/WalaaAlaqeel/Recommendation_with_IBM_Webapp/blob/master/IBM_2.jpg 'Result window')
 
 ## 5. Licensing, Author, Acknowledgements
 This work is licensed under a [Creative Commons  Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/). Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
