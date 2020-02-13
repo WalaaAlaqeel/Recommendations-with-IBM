@@ -71,7 +71,7 @@ I build out a content based recommendation system using the NLP skills.  And the
 
      3. The web page will show as follows:
        - Input Window：
- ![GUI1](https://github.com/WalaaAlaqeel/Recommendation_with_IBM_Webapp/blob/master/IBM_1.jpg 'Input window')
+ ![GUI1](https://github.com/WalaaAlaqeel/Recommendations-with-IBM/blob/master/Project%208%20Recommendations_with_IBM/IBM_1.jpg 'Input window')
 
        - Result Window：
 ![GUI2](https://github.com/WalaaAlaqeel/Recommendation_with_IBM_Webapp/blob/master/IBM_2.jpg 'Result window')
